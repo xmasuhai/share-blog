@@ -1537,7 +1537,7 @@
     "@vue/compiler-core" "3.2.21"
     "@vue/shared" "3.2.21"
 
-"@vue/compiler-sfc@3.2.21", "@vue/compiler-sfc@^3.0.0":
+"@vue/compiler-sfc@3.2.21", "@vue/compiler-sfc@^3.2.21":
   version "3.2.21"
   resolved "https://registry.npmmirror.com/@vue/compiler-sfc/download/@vue/compiler-sfc-3.2.21.tgz#42639ee49e725afb7d8f1d1940e75dc17a56002c"
   integrity sha1-QmOe5J5yWvt9jx0ZQOddwXpWACw=
@@ -1579,7 +1579,7 @@
 
 "@vue/devtools-api@^6.0.0-beta.11", "@vue/devtools-api@^6.0.0-beta.18":
   version "6.0.0-beta.20.1"
-  resolved "https://registry.npmmirror.com/@vue/devtools-api/download/@vue/devtools-api-6.0.0-beta.20.1.tgz?cache=0&sync_timestamp=1636562927577&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40vue%2Fdevtools-api%2Fdownload%2F%40vue%2Fdevtools-api-6.0.0-beta.20.1.tgz#5b499647e929c35baf2a66a399578f9aa4601142"
+  resolved "https://registry.npmmirror.com/@vue/devtools-api/download/@vue/devtools-api-6.0.0-beta.20.1.tgz#5b499647e929c35baf2a66a399578f9aa4601142"
   integrity sha512-R2rfiRY+kZugzWh9ZyITaovx+jpU4vgivAEAiz80kvh3yviiTU3CBuGuyWpSwGz9/C7TkSWVM/FtQRGlZ16n8Q==
 
 "@vue/eslint-config-typescript@^7.0.0":
@@ -1622,7 +1622,7 @@
 
 "@vue/runtime-dom@3.2.21":
   version "3.2.21"
-  resolved "https://registry.npmmirror.com/@vue/runtime-dom/download/@vue/runtime-dom-3.2.21.tgz?cache=0&sync_timestamp=1635836338444&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40vue%2Fruntime-dom%2Fdownload%2F%40vue%2Fruntime-dom-3.2.21.tgz#33dd15bc85281e773177a30dc6931c294bd77aa1"
+  resolved "https://registry.npmmirror.com/@vue/runtime-dom/download/@vue/runtime-dom-3.2.21.tgz#33dd15bc85281e773177a30dc6931c294bd77aa1"
   integrity sha1-M90VvIUoHncxd6MNxpMcKUvXeqE=
   dependencies:
     "@vue/runtime-core" "3.2.21"
@@ -1631,7 +1631,7 @@
 
 "@vue/server-renderer@3.2.21":
   version "3.2.21"
-  resolved "https://registry.npmmirror.com/@vue/server-renderer/download/@vue/server-renderer-3.2.21.tgz?cache=0&sync_timestamp=1635836339682&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40vue%2Fserver-renderer%2Fdownload%2F%40vue%2Fserver-renderer-3.2.21.tgz#887d0a44de76f72313cff2686a24c0315231d634"
+  resolved "https://registry.npmmirror.com/@vue/server-renderer/download/@vue/server-renderer-3.2.21.tgz#887d0a44de76f72313cff2686a24c0315231d634"
   integrity sha1-iH0KRN529yMTz/JoaiTAMVIx1jQ=
   dependencies:
     "@vue/compiler-ssr" "3.2.21"
@@ -9223,7 +9223,7 @@ vue-loader@^15.9.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-router@^4.0.0-0:
+vue-router@4.0.12:
   version "4.0.12"
   resolved "https://registry.npmmirror.com/vue-router/download/vue-router-4.0.12.tgz#8dc792cddf5bb1abcc3908f9064136de7e13c460"
   integrity sha1-jceSzd9bsavMOQj5BkE23n4TxGA=
@@ -9243,7 +9243,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^3.0.0:
+vue@^3.2.21:
   version "3.2.21"
   resolved "https://registry.npmmirror.com/vue/download/vue-3.2.21.tgz#55f5665172d95cf97e806b9aad0a375180be23a1"
   integrity sha1-VfVmUXLZXPl+gGuarQo3UYC+I6E=
@@ -9254,9 +9254,9 @@ vue@^3.0.0:
     "@vue/server-renderer" "3.2.21"
     "@vue/shared" "3.2.21"
 
-vuex@^4.0.0-0:
+vuex@4.0.2:
   version "4.0.2"
-  resolved "https://registry.nlark.com/vuex/download/vuex-4.0.2.tgz?cache=0&sync_timestamp=1623945192157&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvuex%2Fdownload%2Fvuex-4.0.2.tgz#f896dbd5bf2a0e963f00c67e9b610de749ccacc9"
+  resolved "https://registry.nlark.com/vuex/download/vuex-4.0.2.tgz#f896dbd5bf2a0e963f00c67e9b610de749ccacc9"
   integrity sha1-+Jbb1b8qDpY/AMZ+m2EN50nMrMk=
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.11"
